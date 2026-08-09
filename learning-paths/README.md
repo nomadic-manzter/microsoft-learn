@@ -1,5 +1,9 @@
-# learning-paths
+# Learning Paths
 
-This folder contains starter content for **learning-paths**.
+This folder stores the Microsoft Learn paths used for the Microsoft IT Support Professional Certification journey.
 
-- Add files and subfolders as your Microsoft Learn journey grows.
+## How to Use
+
+- Create one file or folder per learning path.
+- Track path-level status (Not Started, In Progress, Completed).
+- Link completed modules to notes in `/modules/`.
