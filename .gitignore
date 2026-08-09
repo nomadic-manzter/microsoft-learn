@@ -141,3 +141,35 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# -------------------------------------------------------
+# Microsoft Learn repo: additional common ignores
+# -------------------------------------------------------
+
+# VS Code workspace settings
+.vscode/
+
+# PowerShell
+*.psd1.user
+*.psm1.user
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# General development
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
