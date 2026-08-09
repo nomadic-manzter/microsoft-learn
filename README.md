@@ -18,8 +18,9 @@ This repository now tracks the start of the **Microsoft IT Support Professional 
 
 | Learning Path | Status | Notes |
 |---|---|---|
-| IT support fundamentals (to be selected on Microsoft Learn) | Not Started | Add start date and module sequence |
-| Device, endpoint, and troubleshooting topics | Not Started | Add links as paths are confirmed |
+| Introduction to Computers | In Progress | Syllabus tracker: `/learning-paths/introduction-to-computers.md` |
+| Enterprise systems and security topics | Planned | Add detailed notes as modules are completed |
+| Business systems applications topics | Planned | Add module outcomes and examples |
 
 ## Module Progress
 
@@ -36,7 +37,7 @@ This repository now tracks the start of the **Microsoft IT Support Professional 
 ## Immediate Goals
 
 - [ ] Finalize certification timeline and milestone dates
-- [ ] Enroll in first Microsoft Learn IT support learning path
+- [x] Capture first course syllabus and outcomes
 - [ ] Complete first module and record notes
 - [ ] Begin weekly lab practice log
 

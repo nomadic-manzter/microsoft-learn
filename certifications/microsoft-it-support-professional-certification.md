@@ -10,8 +10,8 @@
 
 | Milestone | Target Date | Status | Notes |
 |---|---|---|---|
-| Confirm full certification syllabus and required learning paths | TBD | Not Started | Add official links |
-| Complete first learning path | TBD | Not Started | Track modules in `/modules/` |
+| Confirm full certification syllabus and required learning paths | TBD | In Progress | Intro to Computers syllabus captured in `/learning-paths/introduction-to-computers.md` |
+| Complete first learning path | TBD | In Progress | Track modules in `/modules/` |
 | Complete first practical lab set | TBD | Not Started | Track exercises in `/labs/` |
 | Complete all required path content | TBD | Not Started | Add completion summary |
 | Final exam readiness review | TBD | Not Started | Use checklist below |
@@ -21,6 +21,7 @@
 | Date | Topic | Activity Type | Outcome / Notes |
 |---|---|---|---|
 | 2026-08-09 | Journey kickoff | Planning | Repository adapted for certification tracking |
+| 2026-08-09 | Introduction to Computers syllabus | Planning | Course outcomes and module structure documented |
 
 ## Exam Readiness Checklist
 
