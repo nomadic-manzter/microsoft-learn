@@ -1,64 +1,50 @@
 # Microsoft Learn Academic Journey
 
-A structured portfolio to document and organize progress across Microsoft Learn, including learning paths, completed modules, certifications, notes, labs, and future goals.
-
-## Repository Overview
-
-This repository is a single place to track:
-
-- Azure, AI, Power Platform, and other Microsoft technology learning paths
-- Module-by-module notes and completion status
-- Certification study plans and objectives
-- Hands-on labs, scripts, and exercises
-- Reference materials and long-term growth goals
+This repository now tracks the start of the **Microsoft IT Support Professional Certification** journey with structured notes, progress logs, labs, and study plans.
 
 ## Progress at a Glance
 
-- 📘 **Status:** In Progress
+- 📘 **Status:** Started
 - 🧭 **Platform:** Microsoft Learn
-- ☁️ **Focus:** Azure | AI | Power Platform
+- 🎯 **Primary Focus:** Microsoft IT Support Professional Certification
+
+## Certification Path
+
+| Certification Track | Status | Tracker |
+|---|---|---|
+| Microsoft IT Support Professional Certification | In Progress | `/certifications/microsoft-it-support-professional-certification.md` |
 
 ## Learning Paths
 
-| Learning Path | Area | Status | Notes |
-|---|---|---|---|
-| _Example: Azure Fundamentals_ | Azure | Not Started | Add start date and milestones |
+| Learning Path | Status | Notes |
+|---|---|---|
+| Introduction to Computers | In Progress | Syllabus tracker: `/learning-paths/introduction-to-computers.md` |
+| Enterprise systems and security topics | Planned | Add detailed notes as modules are completed |
+| Business systems applications topics | Planned | Add module outcomes and examples |
 
-## Modules Completed
+## Module Progress
 
 | Module | Learning Path | Completion Date | Key Takeaway |
 |---|---|---|---|
-| _Example: Describe cloud concepts_ | Azure Fundamentals | YYYY-MM-DD | Add concise summary |
+| _No modules completed yet_ | - | - | Journey just started |
 
-## Certifications
+## Labs & Practice
 
-| Certification | Exam Code | Target Date | Status |
+| Lab / Exercise | Topic | Status | Location |
 |---|---|---|---|
-| _Example: Microsoft Certified: Azure Fundamentals_ | AZ-900 | YYYY-MM-DD | Planning |
+| _Initial hands-on labs to be added_ | IT support tools and workflows | Planned | `/labs/` |
 
-## Notes
+## Immediate Goals
 
-- Use `/modules/` for per-module summaries.
-- Use `/resources/` for references and diagrams.
-- Add topic-based notes as your journey progresses.
+- [ ] Finalize certification timeline and milestone dates
+- [x] Capture first course syllabus and outcomes
+- [ ] Complete first module and record notes
+- [ ] Begin weekly lab practice log
 
-## Labs & Hands-on Exercises
+## Repository Structure
 
-| Lab / Exercise | Technology | Status | Location |
-|---|---|---|---|
-| _Example: Deploy a web app to Azure_ | Azure App Service | Planned | `/labs/` |
-
-## Future Goals
-
-- [ ] Complete core Azure learning paths
-- [ ] Build consistent weekly study cadence
-- [ ] Complete first Microsoft certification exam
-- [ ] Expand into AI and Power Platform advanced tracks
-
-## Directory Structure
-
-- `/learning-paths/` — folders and trackers for each learning path
-- `/modules/` — notes and summaries for individual modules
-- `/labs/` — code samples, scripts, and walkthroughs
-- `/certifications/` — study notes and exam objectives
-- `/resources/` — references, links, diagrams, and supporting materials
+- `/certifications/` — certification tracker, milestones, and exam preparation notes
+- `/learning-paths/` — active and planned Microsoft Learn paths
+- `/modules/` — per-module notes and completion summaries
+- `/labs/` — practical exercises, walkthroughs, and validation steps
+- `/resources/` — links, references, and study aids
